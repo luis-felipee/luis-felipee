@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/luis-felipee">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=danlibs&show_icons=true&theme=tokyonight&includ_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlibs&layout=compact&lang_count=16&theme=tokyonight"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=luis-felipee&show_icons=true&theme=tokyonight&includ_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-felipee&layout=compact&lang_count=16&theme=tokyonight"/>
 </div>
 
 <!--
