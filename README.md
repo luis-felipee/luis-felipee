@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<div>
+  <a href="https://github.com/luis-felipee">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=danlibs&show_icons=true&theme=tokyonight&includ_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlibs&layout=compact&lang_count=16&theme=tokyonight"/>
+</div>
+
 <!--
 **luis-felipee/luis-felipee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
