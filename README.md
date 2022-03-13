@@ -29,5 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luis-felipee&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+
 
  ![Snake animation](https://github.com/luis-felipee/luis-felipee/blob/output/github-contribution-grid-snake.svg) 
