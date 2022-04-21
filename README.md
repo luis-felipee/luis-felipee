@@ -29,5 +29,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div> 
-
+<img alingn="center" src="https://profile-counter.glitch.me/luis-felipee/count.svg" />
  ![Snake animation](https://github.com/luis-felipee/luis-felipee/blob/output/github-contribution-grid-snake.svg) 
